@@ -5,7 +5,6 @@ tags: [to-do list]
 ---
 
 This post tests the style of a task item list.
-이혜연
 
 Source:
 
@@ -22,3 +21,5 @@ Rendered:
 - [ ] Walking
   - [ ] Running
 - [ ] Sleeping
+
+이혜연
